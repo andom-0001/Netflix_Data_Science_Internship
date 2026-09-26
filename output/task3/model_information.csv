@@ -1,0 +1,5 @@
+Parameter,Value
+Feature extraction,TF-IDF
+Similarity method,Cosine Similarity
+Number of titles,8790
+Number of TF-IDF features,6552

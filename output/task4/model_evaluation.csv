@@ -1,0 +1,11 @@
+Metric,Value
+Model,Linear Regression
+Training observations,59
+Testing observations,15
+Training start year,1925
+Training end year,2006
+Testing start year,2007
+Testing end year,2021
+MAE,475.14
+RMSE,603.2
+R2 Score,-1.593
